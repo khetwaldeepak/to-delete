@@ -8,7 +8,7 @@ exports.handler = async (event) => {
     }; 
     try{
 
-       const sql = require("mysql3");
+       const sql = require("mysql9");
 
        //const https = require('https')
     } catch(err){
