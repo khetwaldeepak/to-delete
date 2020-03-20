@@ -19,7 +19,7 @@ exports.handler = async (event) => {
     }
     
     var config = {
-        user: 'deepakkhetwal',
+        user: 'deepakkhetwal1',
         password: 'admin!123',
         server: 'onetskills.database.windows.net', 
         database: 'onetskillsextractor' ,
